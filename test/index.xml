@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jira_comments" tests="5" time="1.540">
+  <testsuite name="Create comment" id="4dba5150-e530-455e-a79a-50053108566d" timestamp="2020-05-28T14:10:59.797Z" tests="1" failures="0" errors="0" time="0.651">
+    <testcase name="Your test name" time="0.651" classname="JiraComments"/>
+  </testsuite>
+  <testsuite name="Get Comments" id="fe748ad2-160c-44e2-ad67-5b5b5194405a" timestamp="2020-05-28T14:10:59.797Z" tests="0" failures="0" errors="0" time="0.131"/>
+  <testsuite name="Get Comment by id" id="21e81549-299e-4119-b648-c53d0d74eb56" timestamp="2020-05-28T14:10:59.797Z" tests="0" failures="0" errors="0" time="0.353"/>
+  <testsuite name="UpdateComment by id" id="31677519-d8b2-48ae-a24a-a192184a1316" timestamp="2020-05-28T14:10:59.797Z" tests="0" failures="0" errors="0" time="0.241"/>
+  <testsuite name="Delete Comment by id" id="a984c52e-fe85-4e6d-97a3-028749e9ddc2" timestamp="2020-05-28T14:10:59.797Z" tests="0" failures="0" errors="0" time="0.164"/>
+</testsuites>
